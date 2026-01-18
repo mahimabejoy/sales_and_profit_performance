@@ -30,5 +30,3 @@ This project showcases an executive-level Tableau dashboard built using the Glob
 - A small number of products and cities drive a large share of total revenue
 - Order volumes show consistent growth over time
 
-## Repository Structure
-
