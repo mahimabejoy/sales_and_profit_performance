@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project showcases an executive-level Tableau dashboard built using the Global Superstore dataset to analyze global sales performance, profitability, discount behavior, and order trends. The dashboard is designed to support data-driven business decisions through clear KPI definitions and interactive visualizations.
+[Global Sales & Profit Performance Dashboard (Tableau)](https://public.tableau.com/app/profile/mahima.susan.bijoy/viz/GlobalSuperstoreDashboard_16387955365310/Dashboard1)
 
 ## Dashboard Preview
 ![Global Sales & Profit Dashboard](https://github.com/mahimabejoy/sales_and_profit_performance/blob/main/Dashboard%201.png)
